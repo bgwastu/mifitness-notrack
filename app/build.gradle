@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace 'com.bgwastu.mifitness.notrack'
+    namespace 'net.wastu.mifitness.notrack'
     compileSdk 34
 
     defaultConfig {
-        applicationId "com.bgwastu.mifitness.notrack"
+        applicationId "net.wastu.mifitness.notrack"
         minSdk 26
         targetSdk 34
         versionCode 1

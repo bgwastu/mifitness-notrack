@@ -1,4 +1,4 @@
-package com.bgwastu.mifitness.notrack;
+package net.wastu.mifitness.notrack;
 
 import android.content.ContentValues;
 import android.content.Context;
