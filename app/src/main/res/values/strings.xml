@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Mi Fitness NoTrack</string>
+    <string name="xposed_description">Neutralizes Xiaomi OneTrack and telemetry in Mi Fitness (com.xiaomi.wearable)</string>
+</resources>
